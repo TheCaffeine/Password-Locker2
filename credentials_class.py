@@ -1,3 +1,4 @@
+from _typeshed import Self
 import unittest
 import pyperclip
 from user_class import Credentials
@@ -29,7 +30,7 @@ class UserTest(unittest.TestCase):
         test method to test if user has been saved into class list
         '''
         self.new_user.save_user()
-        self.assertEqual(len(User.data_user),1)
+        Self.assertEqual(len(User.data_user),1)
 
 class User_classTest(unittest.TestCase):
     def setUp(self):
