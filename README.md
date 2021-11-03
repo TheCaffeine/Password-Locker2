@@ -2,15 +2,12 @@
 
 ## Author
 
- Kolem Edwin
+ Mark Abenga 
 
  ## Description
 python application that manages user passwords and generates new passwords for different accounts
 
 <img src="./images/Screenshot%20from%202021-09-04%2017-19-24.png">
-
-## Live page
-https://github.com/edwinkipchumba/Password-Locker
 
 
 ## Behaviuor Driven Development (BDD)
@@ -60,7 +57,7 @@ $ python3.8 test_class.py
 
 ## Technology used
 
-* python3.8
+* python3.10
 
 ## Known Bugs
 
@@ -69,8 +66,8 @@ If you find a bug, kindly feel free to comment an issue here and inlcude their c
 ## Contact  Information
 
  Feel free to contact me incase of any issue or questions, ideas and concern towards the same.
- Contact Number:+254728357619
- E-Mail: edwinkolem5@gmail.com.
+ Contact Number:+254700331306
+ E-Mail: liamabenga@gmail.com.
 
 ## License
-https://github.com/edwinkipchumba/Password-Locker/blob/master/LICENSE
+https://github.com/TheCaffeine/Password-Locker/blob/master/LICENSE
