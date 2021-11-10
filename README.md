@@ -36,7 +36,7 @@ python application that manages user passwords and generates new passwords for d
 * Open Terminal {Ctrl+Alt+T}
 
 ```
-$git clone https://github.com/edwinkipchumba/Password-Locker
+$gh repo clone TheCaffeine/Password-Locker2
 ```
 ```
 $cd Password-Locker
